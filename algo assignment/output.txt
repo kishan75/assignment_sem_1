@@ -1,0 +1,2 @@
+min cost = 110
+2nd min cost = 121
