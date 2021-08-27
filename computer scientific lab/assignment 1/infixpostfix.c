@@ -85,7 +85,7 @@ int main(){
     char expr[MAX];
 
 	printf("insert valid infix expression");
-	scanf("%s", &expr); // 5+7*(3^2-6)^(8+1*2)-4
+	scanf("%s", expr); // 5+7*(3^2-6)^(8+1*2)-4
 
     int n = strlen(expr);
     char res[n];
