@@ -27,10 +27,20 @@ struct heap
 	heap* right = NULL;
 } ;
 
+void downHeapify(heap* i)  {
+    heap* left = i->left;
+    heap* right = i->right;
+    heap* smallest = i;
+    if(left!=NULL && left->data < smallest->data) smallest = left;
+    if(right!=NULL && right->data < smallest->data) smallest = right;
+    if(smallest != i) {
+        swap(smallest->data, i->data);
+        downHeapify(smallest);
+    }
+}
+
 heap* slowHeap(int i,int j)
 {
-	cout<<i<<" "<<j<<"\n";
-
 	if (i==j)
 	{
 	   heap* temp = new heap;
