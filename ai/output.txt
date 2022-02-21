@@ -1,0 +1,2072 @@
+1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+
+---------
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 12
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 14
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 10
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 10
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 10
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 16
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 14
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 10
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 10
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 14
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 10
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 10
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 12
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 10
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 6
+
+--restarting algorithm--
+
+ attacking pair count ==> 10
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 8
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 2
+
+--restarting algorithm--
+
+ attacking pair count ==> 8
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 4
+
+--restarting algorithm--
+
+ attacking pair count ==> 6
+
+ attacking pair count ==> 4
+
+ attacking pair count ==> 2
+
+ attacking pair count ==> 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+---------

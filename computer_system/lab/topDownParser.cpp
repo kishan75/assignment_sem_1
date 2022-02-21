@@ -7,80 +7,105 @@ string required;
 int pos=0;
 string current="";
 
-void E();
-void T();
-void F();
-void Tbar();
-void Ebar();
+string E(string current);
+string T(string current);
+string F(string current);
+string Tbar(string current);
+string Ebar(string current);
 
-void F()
+string F(string current)
 {
 	cout<<" exploring F -> (E)|id               "<<current<<"\n";
-	if(required[pos]=='(')
-	{
-      pos++;
-      current+="(";
-      E();
-      pos++;
-      current+=")";
-	}	
-	else
-	{
-		if (required[pos]=='i')
-		{
-			pos+=2;
-			current+="id";
-		}
-		else
-		{
-			cout<<"pattern didn't match after this string : "<<current;
-			exit(0);
-		}
-	}
+    string temp = current+"(";
+    temp+=E(current);
+    temp+=")";
+    if(temp==required)
+     {
+        cout<<"parsing done ";
+        exit(0);
+     }
+      if(temp.size()>required.size())
+     {
+       return current+"id";
+     }
+     if(temp==required)
+     {
+        cout<<"parsing done ";
+        exit(0);
+     }
+     if(required[current.size()]=='i')
+     return current+"id"; 
+     else
+        return current+temp;
 }
 
-void T()
+string T(string current)
 {
 	cout<<" exploring T -> FT'                  "<<current<<"\n";
-   F();
-   Tbar();
+    return current+F(current)+Tbar(current);
 }
 
-void E()
+string E(string current)
 {
     cout<<" exploring E -> TE'                  "<<current<<"\n";
-   T();
-   Ebar();
+   return current +T(current)+Ebar(current);
 }
 
-void Tbar()
+string Tbar(string current)
 {
 	cout<<" exploring T' -> *FT'|epsilon        "<<current<<"\n";
-   if (required[pos]=='*')
-   {
-   	pos++;
-   	current+="*";
-   	F();
-    Tbar();
-   }
+   	string temp = current+"*";
+     if (temp.size()>required.size())
+     {
+         return current;
+     }
+    temp+=F(current);
+     if (temp.size()>required.size())
+     {
+         return current;
+     }
+    temp+=Tbar(current);
+     if (temp.size()>required.size())
+     {
+         return current;
+     }
+     if(temp==required)
+     {
+        cout<<"parsing done ";
+        exit(0);
+     }
+     return temp;
 }
 
-void Ebar()
+string Ebar(string current)
 {
     cout<<" exploring E' -> +TE'|epsilon        "<<current<<"\n";
-   if(required[pos]=='+')
-   {
-   	 pos++;
-     current+="+";
-     T();
-     Ebar();
-   }
+     string temp = current+"+";
+     if (temp.size()>required.size())
+     {
+         return current;
+     }
+     temp+=T(current);
+     if (temp.size()>required.size())
+     {
+         return current;
+     }
+     temp+=Ebar(current);
+     if (temp.size()>required.size())
+     {
+         return current;
+     }
+     if(temp==required)
+     {
+        cout<<"parsing done ";
+        exit(0);
+     }
+     return temp;
 }
 
 int main()
 {
    cin>>required;
-   E();
-   cout<<"parsing done";
+   cout<<E(current)<<"";
    return 0;
 }
